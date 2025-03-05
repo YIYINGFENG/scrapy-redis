@@ -4,3 +4,7 @@ dnspython==2.3.0
 python-dotenv==1.0.0
 mysql-connector-python==8.0.31
 beautifulsoup4==4.11.2
+flask==2.0.1
+werkzeug==2.0.1
+mysql-connector-python==8.0.27
+jieba==0.42.1
